@@ -1,8 +1,8 @@
 /*
  ============================================================================
- Name        : HW3_DS.c
- Author      : 
- Version     :
+ Name        : triangulation.c
+ Author      : Saniya Saifee
+ Version     : 1.0
  Copyright   : Your copyright notice
  Description : Hello World in C, Ansi-style
  ============================================================================
